@@ -1,4 +1,4 @@
-# FinalProject
+# Bot_News
 News_Conversion_BOT
 
 Новостной бот:
